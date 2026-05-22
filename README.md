@@ -20,14 +20,12 @@ Si no les llegan a funcionar, es posible que el problema es que tengan una versi
 
 ## Integrantes
 
-En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integrante n" y escribir su nombre empezando por apellidos y su número de cuenta.
-
-+ Integrante 1
-    - No. de Cuenta: 
-+ Integrante 2
-    - No. de Cuenta: 
-+ Integrante 3
-    - No. de Cuenta: 
++ Acosta Bautista Bertin Sahid
+    - No. de Cuenta: 322184376
++ Trinidad Camacho Gabriel
+    - No. de Cuenta: 322191440
++ Valencia Morales Indra Gabriel
+    - No. de Cuenta: 322264391
 
 ## Comentarios
 
